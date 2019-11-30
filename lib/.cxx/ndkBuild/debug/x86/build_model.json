@@ -1,0 +1,58 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualApp",
+      "sdkFolder": "D:\\SDK",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualApp\\lib\\build\\intermediates",
+      "gradleModulePathName": ":lib",
+      "moduleRootFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualApp\\lib",
+      "makeFile": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualApp\\lib\\src\\main\\jni\\Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualApp\\.cxx",
+      "cxxFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualApp\\lib\\.cxx",
+      "ndkFolder": "D:\\SDK\\ndk\\20.0.5594570",
+      "ndkVersion": "20.0.5594570",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualApp\\lib\\build\\intermediates\\ndkBuild\\debug\\lib",
+    "objFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualApp\\lib\\build\\intermediates\\ndkBuild\\debug\\obj\\local",
+    "jsonFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualApp\\lib\\.cxx\\ndkBuild\\debug",
+    "gradleBuildOutputFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualApp\\lib\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "X86"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 21,
+  "cxxBuildFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualApp\\lib\\.cxx\\ndkBuild\\debug\\x86",
+  "jsonFile": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualApp\\lib\\.cxx\\ndkBuild\\debug\\x86\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualApp\\lib\\.cxx\\cxx\\debug\\x86",
+  "objFolder": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualApp\\lib\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86",
+  "buildCommandFile": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualApp\\lib\\.cxx\\ndkBuild\\debug\\x86\\build_command.txt",
+  "buildOutputFile": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualApp\\lib\\.cxx\\ndkBuild\\debug\\x86\\build_output.txt",
+  "modelOutputFile": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualApp\\lib\\.cxx\\ndkBuild\\debug\\x86\\build_model.json",
+  "jsonGenerationLoggingRecordFile": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualApp\\lib\\.cxx\\ndkBuild\\debug\\x86\\json_generation_record.json",
+  "compileCommandsJsonFile": "E:\\WorkSpace\\AndroidStudioProjects\\VirtualApp\\lib\\.cxx\\ndkBuild\\debug\\x86\\compile_commands.json"
+}
